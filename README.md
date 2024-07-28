@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SanthoshMurugesan06
+- 👋 Hi, I’m Santhsoh Murugesan
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning to code in JAVA
 - 💞️ I’m looking to collaborate on Beginner coders
